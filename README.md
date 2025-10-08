@@ -6,7 +6,7 @@ Boise State University - Department of Geosciences
 lindsaysummers@u.boisestate.edu
 
 ## Description
-Code to calculate monthly averaged glacier surface velocities using NASA ITS_LIVE and CautoRIFT. 
+Code to calculate glacier surface velocity by extracting CautoRIFT cross-platform velocities, imorting ITS_LIVE velocities, and combining them. Also code to calculate and weight average monthly velocities. 
 
 ## Requirements
 - velocity outputs from CautoRIFT (https://github.com/jukesliu/CautoRIFT)
