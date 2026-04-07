@@ -10,4 +10,4 @@ Code to calculate glacier surface velocity by extracting CautoRIFT cross-platfor
 
 ## Requirements
 - velocity outputs from CautoRIFT (https://github.com/jukesliu/CautoRIFT)
-- csv containing lon/lat locations to calculate velocity at
+- csv containing lon/lat locations for velocity calculations
